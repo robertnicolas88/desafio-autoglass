@@ -1,0 +1,15 @@
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\bin\Debug\net5.0\DesafioAutoGlass.Core.deps.json
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\bin\Debug\net5.0\DesafioAutoGlass.Core.runtimeconfig.json
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\bin\Debug\net5.0\DesafioAutoGlass.Core.runtimeconfig.dev.json
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\bin\Debug\net5.0\DesafioAutoGlass.Core.dll
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\bin\Debug\net5.0\DesafioAutoGlass.Core.pdb
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\obj\Debug\net5.0\DesafioAutoGlass.Core.csproj.AssemblyReference.cache
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\obj\Debug\net5.0\DesafioAutoGlass.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\obj\Debug\net5.0\DesafioAutoGlass.Core.AssemblyInfoInputs.cache
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\obj\Debug\net5.0\DesafioAutoGlass.Core.AssemblyInfo.cs
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\obj\Debug\net5.0\DesafioAutoGlass.Core.csproj.CoreCompileInputs.cache
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\obj\Debug\net5.0\DesafioAutoGlass.Core.dll
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\obj\Debug\net5.0\refint\DesafioAutoGlass.Core.dll
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\obj\Debug\net5.0\DesafioAutoGlass.Core.pdb
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\obj\Debug\net5.0\DesafioAutoGlass.Core.genruntimeconfig.cache
+D:\DesafioAutoGlass\DesafioAutoGlass.Core\obj\Debug\net5.0\ref\DesafioAutoGlass.Core.dll
